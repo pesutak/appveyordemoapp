@@ -1,0 +1,13 @@
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\bin\Debug\netcoreapp3.0\appveyordemoapp.exe
+C:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\bin\Debug\netcoreapp3.0\appveyordemoapp.deps.json
+C:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\bin\Debug\netcoreapp3.0\appveyordemoapp.runtimeconfig.json
+C:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\bin\Debug\netcoreapp3.0\appveyordemoapp.runtimeconfig.dev.json
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\bin\Debug\netcoreapp3.0\appveyordemoapp.dll
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\bin\Debug\netcoreapp3.0\appveyordemoapp.pdb
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\obj\Debug\netcoreapp3.0\appveyordemoapp.csprojAssemblyReference.cache
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\obj\Debug\netcoreapp3.0\appveyordemoapp.Form1.resources
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\obj\Debug\netcoreapp3.0\appveyordemoapp.csproj.GenerateResource.cache
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\obj\Debug\netcoreapp3.0\appveyordemoapp.AssemblyInfoInputs.cache
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\obj\Debug\netcoreapp3.0\appveyordemoapp.AssemblyInfo.cs
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\obj\Debug\netcoreapp3.0\appveyordemoapp.dll
+c:\Data\proj\FIXER\TECHNOLOGY TESTS\appveyordemoapp\obj\Debug\netcoreapp3.0\appveyordemoapp.pdb
