@@ -5,4 +5,4 @@ environment:
 before_build:
   - cmd: dotnet restore
 build_script:
-  - cmd: dotnet build
+  - cmd: dotnet publish
